@@ -28,7 +28,7 @@ For each of the 5 samples, we trained each sample using different model:-
 * K-Nearest Neighbors 
 
 ## Results
-<img width="453" height="217" alt="image" src="https://github.com/user-attachments/assets/434a8ae7-5ba9-4372-8a03-3ac9570caf4a" />
+<img width="618" height="205" alt="image" src="https://github.com/user-attachments/assets/6d5b33aa-04cf-4e8d-a88e-fb5b712d30a3" />
 
 
 ## Conclusion
