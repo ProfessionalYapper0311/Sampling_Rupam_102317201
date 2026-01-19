@@ -1,0 +1,6 @@
+,Rndm_Sampling,Syst_Sampling,Stat_Sampling3,Cluster_Sampling,Btstrap_sampling
+M1(LogisticRegression),90.16,90.67,88.08,84.97,88.6
+M2(DecisionTreeClassifier),95.34,95.85,96.37,94.3,95.85
+M3(RandomForestClassifier),98.96,98.96,98.96,98.96,99.48
+M4(SVM),70.98,79.27,69.43,66.84,72.02
+M5(KNN),92.75,95.85,96.37,91.19,95.85
