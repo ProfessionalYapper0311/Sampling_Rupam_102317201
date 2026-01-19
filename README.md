@@ -37,5 +37,6 @@ For each of the 5 samples, we trained each sample using different model:-
 * **Random Forest** achieved the highest accuracy of **99.48%** and it utilized either **Cluster Sampling** or **BootStrap Sampling**
 * Stratified and Random sampling generally provided more consistent results across different models. Cluster sampling showed higher variability but it's dependent based on the selected clusters.
 * Tree-based models like random forest and decision tree handled the complexity of the dataset better than linear models like logistic regression, this was true even for smaller sample sizes.
+
   <img width="392" height="108" alt="image" src="https://github.com/user-attachments/assets/1b18e94d-ca1c-4908-adbf-ef0f5e5452dd" />
 
